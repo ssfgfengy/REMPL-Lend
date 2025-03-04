@@ -10,7 +10,7 @@ hga
 dfg
 d
 f
-orange##api.quityinradian.top##orange
+
 g
 sg
 dg
